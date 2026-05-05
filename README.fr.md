@@ -16,6 +16,8 @@ CRS est un projet de machine learning conçu pour classer des protocoles crypto 
 
 Le projet couvre la collecte de données, le feature engineering, la comparaison de modèles, une évaluation orientée ranking et l'interprétabilité.
 
+> Les notebooks sont principalement rédigés en français afin de documenter finement la démarche méthodologique. Chaque notebook contient toutefois un résumé anglais en introduction pour faciliter la lecture par un public non francophone.
+
 ---
 
 ## Problématique

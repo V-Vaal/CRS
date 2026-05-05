@@ -16,6 +16,8 @@ CRS is a machine learning project designed to rank crypto protocols by vigilance
 
 The project covers data collection, feature engineering, model comparison, ranking-oriented evaluation, and interpretability.
 
+> The notebooks are primarily written in French as they document the project methodology in detail. Each notebook includes an English summary at the top to make the workflow understandable for non-French readers.
+
 ---
 
 ## Problem Statement
